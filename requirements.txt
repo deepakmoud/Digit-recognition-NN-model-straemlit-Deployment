@@ -1,4 +1,4 @@
-opencv-python
+opencv-python-headless
 gunicorn==19.9.0
 itsdangerous==1.1.0
 
